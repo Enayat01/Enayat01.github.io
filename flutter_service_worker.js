@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/images/trekking.jpg": "283eae13ae9587874b93fed5c9b4a118",
 "assets/FontManifest.json": "83479c1588b38075de5ddc2730c5d80a",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "8f2b7ab052dfcf4ace9901a3769cab3f",
+"assets/NOTICES": "752202dc95cb5cbe0e5376ed593cc0bf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -33,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4e6445beeeaff7abb31313e44a6294bd",
-"/": "4e6445beeeaff7abb31313e44a6294bd",
-"main.dart.js": "d00ff086d206f75a67fec2808331aeac",
+"index.html": "4d8bb64ec92461136f184f2bfa04079f",
+"/": "4d8bb64ec92461136f184f2bfa04079f",
+"main.dart.js": "6e4032fed58737d7a0660a37f52a85ef",
 "manifest.json": "099f872c16cdfb1a1b2d98f7e413de5c",
 "version.json": "6ecfece58852824cf7b998ed02c25280"
 };
